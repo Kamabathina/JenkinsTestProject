@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleTestProject\ConsoleTestProject\bin\Debug\ConsoleTestProject.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleTestProject\ConsoleTestProject\bin\Debug\ConsoleTestProject.exe
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleTestProject\ConsoleTestProject\bin\Debug\ConsoleTestProject.pdb
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleTestProject\ConsoleTestProject\obj\Debug\ConsoleTestProject.exe
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleTestProject\ConsoleTestProject\obj\Debug\ConsoleTestProject.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\ConsoleTestProject\JenkinsTestProject\ConsoleTestProject\bin\Debug\ConsoleTestProject.exe.config
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\ConsoleTestProject\JenkinsTestProject\ConsoleTestProject\bin\Debug\ConsoleTestProject.exe
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\ConsoleTestProject\JenkinsTestProject\ConsoleTestProject\bin\Debug\ConsoleTestProject.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\ConsoleTestProject\JenkinsTestProject\ConsoleTestProject\obj\Debug\ConsoleTestProject.exe
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\ConsoleTestProject\JenkinsTestProject\ConsoleTestProject\obj\Debug\ConsoleTestProject.pdb

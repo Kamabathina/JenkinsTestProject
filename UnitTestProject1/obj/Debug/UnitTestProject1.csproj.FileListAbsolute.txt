@@ -1,0 +1,14 @@
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleTestProject\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleTestProject\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleTestProject\UnitTestProject1\bin\Debug\ConsoleTestProject.exe
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleTestProject\UnitTestProject1\bin\Debug\ConsoleTestProject.pdb
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleTestProject\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleTestProject\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleTestProject\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\ConsoleTestProject\JenkinsTestProject\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\ConsoleTestProject\JenkinsTestProject\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\ConsoleTestProject\JenkinsTestProject\UnitTestProject1\bin\Debug\ConsoleTestProject.exe
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\ConsoleTestProject\JenkinsTestProject\UnitTestProject1\bin\Debug\ConsoleTestProject.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\ConsoleTestProject\JenkinsTestProject\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\ConsoleTestProject\JenkinsTestProject\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\ConsoleTestProject\JenkinsTestProject\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
